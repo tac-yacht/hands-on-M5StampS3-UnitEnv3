@@ -1,6 +1,6 @@
 # hands on M5 StampS3 with Unit ENV-III
 
-M5 StampS3 を SORACOM に接続するハンズオン手順書のリポジトリです。  
+M5 StampS3 を MicroPythonで SORACOM に接続するハンズオン手順書のリポジトリです。  
 M5 StampS3 については [製品ページ](https://docs.m5stack.com/ja/core/Stamp-S3A_PIN127) を参照してください。
 
 ## ハンズオン全体像
